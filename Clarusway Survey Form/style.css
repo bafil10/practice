@@ -1,0 +1,35 @@
+body {
+  font-family: open-sns;
+  font-size: 1.2em;
+  font-weight: normal;
+  line-height: 1.5;
+  color: initial;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 10 auto;
+}
+
+p {
+  font-size: 1.2em;
+  margin: 10 auto;
+}
+
+label {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+input,
+button,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+button {
+  border: none;
+}
